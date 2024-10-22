@@ -1,3 +1,52 @@
+As student learning Cyber-Crime and Home Land Security, you have been studying some of the tools threat actors may use                    to carry out attacks ];D
+What you are going to do now is, use these tools to do the following:
+
+ALL STEPS MUST BE SCREEN CAPTURED AND PUT IN ORDER FOR YOUR REPORT!!! (you will lose points if this is not done)
+
+Task:
+
+1) Create a blank file called <your_loginID>_test-file.txt.  <your_loginID> is to be replaced by your login ID
+Example: I am Mr_RoBoTo so the file will be called Mr_RoBoTo_test-file.txt. yours will be created with your ID.
+Example: jane_williams_test-file.txt  (jane_williams is the student replace jane's ID with yours) ];D
+
+2) Edit the blank file called <your_loginID>_test-file.txt with an nmap capture containing the MAC ADDRESS, IP
+ADDRESS, and OS TYPE for the Oracle systems on the network (There may be one or two) along with the phrase:  'I am
+taking my Final Examination in Cybercrime and Homeland Security instructed by Professor Henry Anthony McKelvey' as the                    title ];D
+
+3) Take the newly edited file and save it to your pictures directory ];D
+
+4) Copy the picture (henry.jpg) in the /home/share directory to your Pictures directory and then make a copy of the
+picture call it henry_2.jpg ];D
+
+5) Encode the text file naming it '<your_loginID>_test-file.64'. ];D
+
+6) Encrypt the encoded text file naming it '<your_loginID>_test-file.asc'. ];D
+
+7) Embed the Encrypted file into the picture henry_2.jpg. ];D
+You should now have 5 files in your Pictures directory which are: <your_loginID>_test-file.txt, henry.jpg,
+henry_2.jpg, <your_loginID>_test-file.64, <your_loginID>_test-file.asc. ];D
+Make sure you have screen shots of the whole process, You will be graded on this. ];D
+Using the tar and zip commands you will tar and zip the files in the Pictures directory. ;D
+
+Task 2
+
+1) You will then send the tared and zipped file to /home/share, if you do not know how to do this look at your notes,
+do not ask me for help remember the cost of doing so is 10 points. ];D
+
+2) Once the file is sent to /home/store you will then email me with the name of the file and to tell me the task has
+been done. Then join the IRC channel called #One_Down and leave a message that the taks is done. you will also screen
+capture the IRC message and start on your report using the screen shots you took during this part of the session. ];D
+
+3) You will then write a second part to the report on what you learned from the book CyberMinds, covering all                             chapters, you will not only talk about the book but how it made you feel as you learned about the various topics. ];D
+These are your deliverables 1) a Tarred and Zipped file containing: 5 files which are: <your_loginID>_test-file.txt,                      henry.jpg, henry_2.jpg, <your_loginID>_test-file.64, <your_loginID>_test-file.asc.  2) A report on the Lab Based work
+(with all screen shots and Explanations (you will lose points if the explanations are not complete)) and the addition
+to the report on the Book CyberMinds.
+
+In this class you have had to think, because spoon-feeding was not going to happen. All I can say now at this time is:                    do not overthink, but do not underthink either, because we have to; "Understand the Threat Actor and their ways!!".                       Good fortune and Goodbye for now!! Most importantly HAVE FUN!! d;D
+
+
+
+
 20:01 -!- Mr_RoBoTo [root@127.0.0.1] has joined #Final_Exam
 20:01  * Mr_RoBoTo enters the room with a mission for you. E--d;D                                                                         20:02  * Mr_RoBoTo says Hello All, Welcome to the Final Exam for Homelandand Cybersecurity IRC Chat Room. It has been a long 8 weeks, but           here you are ready to embark on being a newbie cybersecurity practitioner, but first you must show me that you can put the
           skills you learned in class for long 8 weeks to good use. ];D
