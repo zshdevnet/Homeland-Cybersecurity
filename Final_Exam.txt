@@ -7,13 +7,14 @@ Task:
 
 1) Create a blank file called <your_loginID>_test-file.txt.  <your_loginID> is to be replaced by your login ID
 Example: I am Mr_RoBoTo so the file will be called Mr_RoBoTo_test-file.txt. yours will be created with your ID.
-Example: jane_williams_test-file.txt  (jane_williams is the student replace jane's ID with yours) ];D
+Example: jane_williams_test-file.txt  (jane_williams is the student replace jane's ID with yours).
 
 2) Edit the blank file called <your_loginID>_test-file.txt with an nmap capture containing the MAC ADDRESS, IP
 ADDRESS, and OS TYPE for the Oracle systems on the network (There may be one or two) along with the phrase:  'I am
-taking my Final Examination in Cybercrime and Homeland Security instructed by Professor Henry Anthony McKelvey' as the                    title ];D
+taking my Final Examination in Cybercrime and Homeland Security instructed by Professor Henry Anthony McKelvey' as the
+title
 
-3) Take the newly edited file and save it to your pictures directory ];D
+3) Take the newly edited file and save it to your pictures directory
 
 4) Copy the picture (henry.jpg) in the /home/share directory to your Pictures directory and then make a copy of the
 picture call it henry_2.jpg ];D

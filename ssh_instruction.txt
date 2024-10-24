@@ -1,0 +1,12 @@
+Terminal Login command:
+
+ssh -p 2222 shohruz_zubaidov@73.132.181.152
+
+Terminal Login Password: kGpj69pnWwSXdBW
+Terminal Login NEW Password: adminadmin
+
+SSH Tunnel command: (To be put into a batch file)
+
+ssh -p 2222 -N -C -f shohruz_zubaidov@73.132.181.152 -L 5920:localhost:5920
+SSH Tunnel Password: kGpj69pnWwSXdBW
+VNC Login Password: kGpj69pnWwSXdBW

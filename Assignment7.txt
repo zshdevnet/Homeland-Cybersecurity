@@ -1,0 +1,14 @@
+login: file_store
+pass: 1BHUUtzxPdpatwh
+
+The Tape Archive Record (TAR) proceedure is: Go to the directory listing of where the directory
+                       exists that you want to TAR then follow these steps:
+
+Step 1: list the directories to see the directory you wish to TAR.
+Step 2: Type the following command: tar -cvf  <filename you want to name your tar file, usually the name of the directory>.tar  <directory you wish to tar>.
+Step 3: List your files, you should see the tar file.
+Step 4: Use the following command to zip the tar file: gzip  filename.tar.
+Step 5: List your files: you should now have a file like filename.tar.gz.
+
+Use the scp command to send the file to a remote system folder the command is below.
+The secure copy (scp) command is: scp -P 22 <the_file_you_wish_to_send> file_store@192.168.0.101:/home/file_store/

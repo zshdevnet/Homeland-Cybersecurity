@@ -1,0 +1,21 @@
+TMUX
+ctrl + b = prefix key (Hey boss how can I help you?)
+tmux a -t ## - attach
+ctrl + b + d - detach
+tmux kill-session -t ## - kill session
+tmux new -s SS - create new tmux with the name SS
+ctrl + b - shift + 5 = % - new horizontal window
+ctrl + b - shift + " = " - new vertical window
+ctrl + b + q + ## = change the window
+ctrl + b + c = New Window inside the current tmux
+ctrl + b + n = Move to next window
+ctrl + b + w = list all created tmux and windowses
+ctrl + b + , = change the name of the window
+ctrl + b + x = kill the current window
+ctrl + b + & = kill all windowses in current tmux
+
+Reactive
+Proactive
+Last Pass
+Non Production
+Production
