@@ -38,12 +38,16 @@ do not ask me for help remember the cost of doing so is 10 points. ];D
 been done. Then join the IRC channel called #One_Down and leave a message that the taks is done. you will also screen
 capture the IRC message and start on your report using the screen shots you took during this part of the session. ];D
 
-3) You will then write a second part to the report on what you learned from the book CyberMinds, covering all                             chapters, you will not only talk about the book but how it made you feel as you learned about the various topics. ];D
-These are your deliverables 1) a Tarred and Zipped file containing: 5 files which are: <your_loginID>_test-file.txt,                      henry.jpg, henry_2.jpg, <your_loginID>_test-file.64, <your_loginID>_test-file.asc.  2) A report on the Lab Based work
+3) You will then write a second part to the report on what you learned from the book CyberMinds, covering all
+chapters, you will not only talk about the book but how it made you feel as you learned about the various topics.
+These are your deliverables 1) a Tarred and Zipped file containing: 5 files which are: <your_loginID>_test-file.txt,
+henry.jpg, henry_2.jpg, <your_loginID>_test-file.64, <your_loginID>_test-file.asc.  2) A report on the Lab Based work
 (with all screen shots and Explanations (you will lose points if the explanations are not complete)) and the addition
 to the report on the Book CyberMinds.
 
-In this class you have had to think, because spoon-feeding was not going to happen. All I can say now at this time is:                    do not overthink, but do not underthink either, because we have to; "Understand the Threat Actor and their ways!!".                       Good fortune and Goodbye for now!! Most importantly HAVE FUN!! d;D
+In this class you have had to think, because spoon-feeding was not going to happen. All I can say now at this time is:
+do not overthink, but do not underthink either, because we have to; "Understand the Threat Actor and their ways!!".
+Good fortune and Goodbye for now!! Most importantly HAVE FUN!!
 
 
 
