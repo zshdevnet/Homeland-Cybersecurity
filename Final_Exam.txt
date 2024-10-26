@@ -1,4 +1,4 @@
-As student learning Cyber-Crime and Home Land Security, you have been studying some of the tools threat actors may use                    to carry out attacks ];D
+As student learning Cyber-Crime and Home Land Security, you have been studying some of the tools threat actors may use to carry out attacks
 What you are going to do now is, use these tools to do the following:
 
 ALL STEPS MUST BE SCREEN CAPTURED AND PUT IN ORDER FOR YOUR REPORT!!! (you will lose points if this is not done)
@@ -17,26 +17,26 @@ title
 3) Take the newly edited file and save it to your pictures directory
 
 4) Copy the picture (henry.jpg) in the /home/share directory to your Pictures directory and then make a copy of the
-picture call it henry_2.jpg ];D
+picture call it henry_2.jpg
 
-5) Encode the text file naming it '<your_loginID>_test-file.64'. ];D
+5) Encode the text file naming it '<your_loginID>_test-file.64'.
 
-6) Encrypt the encoded text file naming it '<your_loginID>_test-file.asc'. ];D
+6) Encrypt the encoded text file naming it '<your_loginID>_test-file.asc'.
 
-7) Embed the Encrypted file into the picture henry_2.jpg. ];D
+7) Embed the Encrypted file into the picture henry_2.jpg.
 You should now have 5 files in your Pictures directory which are: <your_loginID>_test-file.txt, henry.jpg,
-henry_2.jpg, <your_loginID>_test-file.64, <your_loginID>_test-file.asc. ];D
-Make sure you have screen shots of the whole process, You will be graded on this. ];D
-Using the tar and zip commands you will tar and zip the files in the Pictures directory. ;D
+henry_2.jpg, <your_loginID>_test-file.64, <your_loginID>_test-file.asc.
+Make sure you have screen shots of the whole process, You will be graded on this.
+Using the tar and zip commands you will tar and zip the files in the Pictures directory.
 
 Task 2
 
 1) You will then send the tared and zipped file to /home/share, if you do not know how to do this look at your notes,
-do not ask me for help remember the cost of doing so is 10 points. ];D
+do not ask me for help remember the cost of doing so is 10 points.
 
 2) Once the file is sent to /home/store you will then email me with the name of the file and to tell me the task has
 been done. Then join the IRC channel called #One_Down and leave a message that the taks is done. you will also screen
-capture the IRC message and start on your report using the screen shots you took during this part of the session. ];D
+capture the IRC message and start on your report using the screen shots you took during this part of the session.
 
 3) You will then write a second part to the report on what you learned from the book CyberMinds, covering all
 chapters, you will not only talk about the book but how it made you feel as you learned about the various topics.
