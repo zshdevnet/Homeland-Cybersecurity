@@ -1,4 +1,5 @@
 TMUX
+
 ctrl + b = prefix key (Hey boss how can I help you?)
 tmux a -t ## - attach
 ctrl + b + d - detach
